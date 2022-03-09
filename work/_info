@@ -1,0 +1,86 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/User/Desktop/SPI Master & TB OG
+Espi_master7
+Z1 w1588944530
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z4 dC:/Users/User/Desktop/Project Files/SPI Master & TB/SPI Master & TB
+Z5 8spi_master7.vhd
+Z6 Fspi_master7.vhd
+l0
+L12
+VTnzllM?nn[ObeG06gdbWh1
+!s100 SVDzAJ`MZAZ8mmfTCcI3;0
+Z7 OV;C;10.5b;63
+32
+Z8 !s110 1589271800
+!i10b 1
+Z9 !s108 1589271799.000000
+Z10 !s90 -reportprogress|300|spi_master7.vhd|
+Z11 !s107 spi_master7.vhd|
+!i113 1
+Z12 tExplicit 1 CvgOpt 0
+Aspi_brain
+R2
+R3
+DEx4 work 11 spi_master7 0 22 TnzllM?nn[ObeG06gdbWh1
+l52
+L33
+Vcbfh0<>D<CiXH?@gIDoTB1
+!s100 ;?bB<X]Cldk=m5RdFBVH_0
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+Espi_master7_tb
+Z13 w1588944669
+Z14 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+R2
+R3
+R4
+Z15 8spi_master7_tb.vhd
+Z16 Fspi_master7_tb.vhd
+l0
+L12
+V2i;zLECGiUQ_MXLKKV0@N1
+!s100 `2GYL;KdTI5iVbj:o;ZPV3
+R7
+32
+R8
+!i10b 1
+Z17 !s108 1589271800.000000
+Z18 !s90 -reportprogress|300|spi_master7_tb.vhd|
+Z19 !s107 spi_master7_tb.vhd|
+!i113 1
+R12
+Abench
+R14
+R2
+R3
+Z20 DEx4 work 14 spi_master7_tb 0 22 2i;zLECGiUQ_MXLKKV0@N1
+l43
+L15
+Z21 V87`J@>eCZliSKF]0TYEcK0
+Z22 !s100 LUfi[?z>54zT:95P6k@UE3
+R7
+32
+R8
+!i10b 1
+R17
+R18
+R19
+!i113 1
+R12
